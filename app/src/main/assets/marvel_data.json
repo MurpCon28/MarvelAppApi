@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "5e4c22e41c9d4400004fd91b",
+    "superhero_name": "Iron-Man",
+    "photo": "https://thesimplycoder.com/wp-content/uploads/2020/02/iron-man.jpg",
+    "name": "Tony Stark"
+  },
+  {
+    "_id": "5e4c233e1c9d4400004fd91c",
+    "superhero_name": "Captain America",
+    "photo": "https://thesimplycoder.com/wp-content/uploads/2020/02/captain-america.jpg",
+    "name": "Steve Roger"
+  },
+  {
+    "_id": "5e4c23a61c9d4400004fd91d",
+    "name": "Bruce Banner",
+    "photo": "https://thesimplycoder.com/wp-content/uploads/2020/02/hulk.jpg",
+    "superhero_name": "Hulk"
+  },
+  {
+    "_id": "5e4c23c61c9d4400004fd91e",
+    "superhero_name": "Black Widow",
+    "photo": "https://thesimplycoder.com/wp-content/uploads/2020/02/black-widow.jpg",
+    "name": "Natasha Romanoff"
+  },
+  {
+    "_id": "5e4c23df1c9d4400004fd91f",
+    "superhero_name": "Hawkeye",
+    "photo": "https://thesimplycoder.com/wp-content/uploads/2020/02/hawkeye.jpg",
+    "name": "Clint Barton"
+  },
+  {
+    "_id": "5e4c23fd1c9d4400004fd920",
+    "superhero_name": "Thor",
+    "photo": "https://thesimplycoder.com/wp-content/uploads/2020/02/thor.jpg",
+    "name": "Thor Odinson"
+  },
+  {
+    "_id": "5e4c241a1c9d4400004fd921",
+    "name": "Peter Parker",
+    "photo": "https://thesimplycoder.com/wp-content/uploads/2020/02/spider-man.jpg",
+    "superhero_name": "Spider-Man"
+  },
+  {
+    "_id": "5e4c24451c9d4400004fd922",
+    "superhero_name": "Doctor Strange",
+    "photo": "https://thesimplycoder.com/wp-content/uploads/2020/02/doctor-strange.jpg",
+    "name": "Stephen Strange"
+  },
+  {
+    "_id": "5e4c24631c9d4400004fd923",
+    "superhero_name": "Wolverine",
+    "photo": "https://thesimplycoder.com/wp-content/uploads/2020/02/wolverine.jpg",
+    "name": "Logan"
+  },
+  {
+    "_id": "5e4c24731c9d4400004fd924",
+    "name": "Peter Quill",
+    "photo": "https://thesimplycoder.com/wp-content/uploads/2020/02/star-lord.jpg",
+    "superhero_name": "Star-Lord"
+  },
+  {
+    "_id": "5e4c25001c9d4400004fd925",
+    "superhero_name": "Black Panther",
+    "photo": "https://thesimplycoder.com/wp-content/uploads/2020/02/black-panther.jpg",
+    "name": "T'challa"
+  },
+  {
+    "_id": "5e4c25331c9d4400004fd926",
+    "name": "Scott Lang",
+    "photo": "https://thesimplycoder.com/wp-content/uploads/2020/02/ant-man.jpg",
+    "superhero_name": "Ant-Man"
+  }
+]
